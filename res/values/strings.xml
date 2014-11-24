@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShoppingCart</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="email_id_label">UserName</string>
+    <string name="password_label">Password</string>
+    <string name="login_label">SignIn</string>
+    <string name="new_user_register_here_label">New User Register here</string>
+    <string name="temperature_label">Temperature</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="new_user">New User</string>
+    <string name="enter_item_name">Enter item name</string>
+    <string name="logout">LogOut</string>
+    <string name="products_label">Products</string>
+
+</resources>
